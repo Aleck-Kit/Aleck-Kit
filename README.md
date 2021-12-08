@@ -7,3 +7,5 @@ With a solid foundation in the MERN Stack (MongoDB, Express, React, Node), I act
 The internet's new iteration in Web 3.0 and its implications on social networks, search engines and marketplaces (to name but a few) on the blockchain system is of great particular interest to me, and I'm thoroughly enjoying quenching my curiosity on the endless possibilities the future has in store.
 
 It is a future I'm eager to be actively involved in, in a world I aspire to change for the better; one line of code at a time.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aleck-Kit)](https://github.com/anuraghazra/github-readme-stats)
