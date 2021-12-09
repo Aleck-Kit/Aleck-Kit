@@ -14,6 +14,7 @@ I look forward to bringing that passion to a full-time role.
 ## Skills & Experience 
 
 Skills:   
+<img src="https://img.icons8.com/color/100/000000/html-5--v1.png"/>
 <img src="https://img.icons8.com/color/100/000000/css3.png"/>
 <img src="https://img.icons8.com/color/100/000000/javascript--v1.png"/>
 <img src="https://img.icons8.com/clouds/100/000000/react.png"/>
