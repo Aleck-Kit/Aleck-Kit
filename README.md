@@ -9,6 +9,8 @@ I'm an Aspiring Full Stack Web Developer that made the life-changing decision to
 With a solid foundation in the MERN Stack (MongoDB, Express, React, Node), I actively seek to add new technologies to my ever-expanding knowledge-base and stay up-to-date on industry trends and advancements. 
  
 I look forward to bringing that passion to a full-time role. 
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/aleckkitenge/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://aleck-kitenge.netlify.app/) 
  
  
 ## Skills & Experience 
@@ -24,7 +26,7 @@ Skills:
 <img src="https://img.icons8.com/color/100/000000/git.png"/>
 <img src="https://img.icons8.com/clouds/100/000000/console.png"/>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' color='white>](https://www.linkedin.com/in/https://www.linkedin.com/in/aleckkitenge/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://aleck-kitenge.netlify.app/) 
+
 
 
 
