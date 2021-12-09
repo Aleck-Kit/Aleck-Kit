@@ -10,7 +10,8 @@ With a solid foundation in the MERN Stack (MongoDB, Express, React, Node), I act
  
 I look forward to bringing that passion to a full-time role. 
 
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/https://www.linkedin.com/in/aleckkitenge/)  [<img src="https://img.icons8.com/fluency/48/000000/domain.png"/>](https://aleck-kitenge.netlify.app/) 
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/aleckkitenge/) 
+[<img src="https://img.icons8.com/fluency/48/000000/domain.png"/>](https://aleck-kitenge.netlify.app/) 
  
  
 ## Skills & Experience 
