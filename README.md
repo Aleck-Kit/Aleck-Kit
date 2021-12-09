@@ -4,7 +4,7 @@
 
 I'm an Aspiring Full Stack Web Developer that made the life-changing decision to delve into the world of tech, after more than a decade in advertising and a need to challenge my brain and widen my horizons.
 
- From my very first <Hello World> to now designing, developing and maintaining web and mobile applications, nothing could have prepared me for the immense joy and personal growth I've derived from writing lines of code and creating magic.
+ From my very first "Hello World" to now designing, developing and maintaining web and mobile applications, nothing could have prepared me for the immense joy and personal growth I've derived from writing lines of code and creating magic.
 
 With a solid foundation in the MERN Stack (MongoDB, Express, React, Node), I actively seek to add new technologies to my ever-expanding knowledge-base and stay up-to-date on industry trends and advancements. 
  
