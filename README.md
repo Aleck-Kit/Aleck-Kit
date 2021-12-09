@@ -22,6 +22,7 @@ Skills:
 <img src="https://img.icons8.com/color/100/000000/mongodb.png"/>
 <img src="https://img.icons8.com/fluency/100/000000/node-js.png"/>
 <img src="https://img.icons8.com/color/100/000000/git.png"/>
+<img src="https://img.icons8.com/clouds/100/000000/console.png"/>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/aleckkitenge/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://aleck-kitenge.netlify.app/) 
 
