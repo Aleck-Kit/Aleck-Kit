@@ -6,7 +6,7 @@ I'm an Aspiring Full Stack Web Developer who made the life-changing decision to 
 
  From my very first "Hello World" to now designing, developing and maintaining web and mobile applications, nothing could have prepared me for the immense joy and personal growth I've derived from writing lines of code and creating magic.
 
-With a solid foundation in the MERN Stack (MongoDB, Express, React, Node), I actively seek to add new technologies to my ever-expanding knowledge-base and stay up-to-date on industry trends and advancements. 
+With a solid foundation in the MERN Stack (MongoDB, Express, React, Node), I actively seek to add new technologies to my ever-expanding knowledge-base and stay up-to-date with industry trends and advancements. 
  
 I look forward to bringing that passion to a full-time role. 
 
