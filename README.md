@@ -1,4 +1,4 @@
-## Hi there 👋, my name is Aleck Kitenge
+## Hi there 👋, my name is Aleck
 
 ![Follow my journey as a Web Dev](https://github.com/Aleck-Kit/Aleck-Kit/blob/main/Aleck%20Kitenge%20(7).png)
 
