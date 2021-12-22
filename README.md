@@ -2,7 +2,7 @@
 
 ![Follow my journey as a Web Dev](https://github.com/Aleck-Kit/Aleck-Kit/blob/main/Aleck%20Kitenge%20(7).png)
 
-I'm an Aspiring Full Stack Web Developer who made the life-changing decision to delve into the world of tech after more than a decade in advertising and a need to challenge my brain and broaden my horizons.
+I'm a Full Stack Web Developer that made the life-changing decision to delve into the world of tech after more than a decade in advertising and a need to challenge my brain and broaden my horizons.
 
  From my very first "Hello World" to now designing, developing and maintaining web and mobile applications, nothing could have prepared me for the immense joy and personal growth I've derived from writing lines of code and creating magic.
 
