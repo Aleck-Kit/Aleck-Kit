@@ -8,7 +8,7 @@ I'm a Full Stack Web Developer that made the life-changing decision to delve int
 
 With a solid foundation in the MERN Stack (MongoDB, Express, React, Node), I actively seek to add new technologies to my ever-expanding knowledge-base and stay up-to-date with industry trends and advancements. 
  
-I look forward to bringing that passion to a full-time role. 
+I look forward to bringing that hard-earned knowledge and passion to a full-time role. 
 
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/aleckkitenge/) 
 [<img src="https://img.icons8.com/fluency/48/000000/domain.png"/>](https://aleck-kitenge.netlify.app/) 
